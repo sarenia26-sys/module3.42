@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "module3.42",
+		"path": "."
+	},
+	{
+		"name": "assets",
+		"path": "../E-commerce Resources/assets"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "module3.42"
+  }
+}
